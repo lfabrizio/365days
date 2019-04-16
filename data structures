@@ -1,0 +1,8 @@
+use an array to store a colection of data
+
+
+
+
+
+
+let yourArray = ["name", 5, undefined, true, null]; // change this line
