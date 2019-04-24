@@ -1,0 +1,12 @@
+/ factorialize a number 
+
+
+function factorialize(num) {
+  var result= 1;
+  for (var i = num; num > 1; num --) {
+    result *=num;
+  }
+  return result;
+}
+
+factorialize(5);
