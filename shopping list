@@ -1,0 +1,3 @@
+// shopping list
+
+var myList = [[" Chocolate Bar", 5],["third one", 4,], ["fifth one", 9], ["next", 12], ["last one", 17]];
