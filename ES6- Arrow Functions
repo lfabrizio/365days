@@ -1,0 +1,6 @@
+// Use Arrwo Functions to write concise Anonymous functions
+
+const magic = () => {
+  "use strict";
+  return new Date();
+};
