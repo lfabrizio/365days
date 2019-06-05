@@ -1,0 +1,7 @@
+// Define a constructor function 
+
+function Dog () {
+this.name = "Bob"
+this.color = "blue"
+this.numLegs = 3;
+}
