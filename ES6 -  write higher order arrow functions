@@ -1,4 +1,4 @@
-// write higher order arrow functions
+// write higher order arrow functions(very challenging problem)
 
 const realNumberArray = [4, 5.6, -9.8, 3.14, 42, 6, 8.34, -2];
 const squareList = (arr) => {
