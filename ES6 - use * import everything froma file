@@ -1,0 +1,4 @@
+// use * to import everything froma file 
+
+"use strict";
+import * as object_with_name_of_your_choice from "capitalize_strings";
