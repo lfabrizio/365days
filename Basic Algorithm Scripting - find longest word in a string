@@ -1,4 +1,4 @@
-// find longest word in a string
+// find longest word in a string problem
 
 function findLongestWordLength(str) {
 // turn to an array 
