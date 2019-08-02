@@ -1,0 +1,7 @@
+let phrase = "ba humbug";
+
+let regexPlus = /bah+/;
+let regexStar = /bah*/;
+
+regexPlus.test(phrase);  // returns false
+regexStar.test(phrase);  // returns true
