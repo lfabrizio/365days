@@ -42,3 +42,9 @@ addGrade(grade) {
 }
 const newstudent = new Student('Mike', 24, 188);
 console.log(newstudent);
+
+console.log(newstudent.planet);
+
+
+// person > student/employee
+// vehicle > sedan/hatchback > brand
