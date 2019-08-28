@@ -1,0 +1,42 @@
+// object oriented classes & super
+
+// object oriented exercise
+class Person {
+    constructor (name, age, height) {
+        this.name = name;
+        this.age = age;
+        this.height = height;
+    }
+    changename(newname) {
+        this.name = newname;
+    }
+
+    birthday() {
+        this.age += 1;
+    }
+    addHeight(height) {
+        this.height = height;
+    }
+    }
+
+
+// class Employee extends(Person) {
+//     constructor(name, age , height) {
+//         super(name, age, height);
+
+//     }
+// } 
+
+// const newEmployee = new employee ("Jason", 30, 190);
+
+class Student extends(Person) {
+    constructor (name, age, height) {
+        super(name, age, height);
+
+}
+addGrade(grade) {
+    this.grade = grade; 
+}
+}
+const newstudent = new Student('Mike', 24, 188);
+console.log(newstudent);
