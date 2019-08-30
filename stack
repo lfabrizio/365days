@@ -1,4 +1,4 @@
-//
+// updated to fix no negative 
 
 class Stack {
     constructor() {
