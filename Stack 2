@@ -1,0 +1,38 @@
+    
+// try in C language 
+
+class Stack {
+    constructor() {
+        this._data = [ ];
+        this.length = 0;
+    }
+    push(element){
+        this._data.push(element);
+        this.length += 1;
+    }
+    top() {
+    return this_data[this.data.length -1]
+    }
+    pop() {
+        if (this.length > 0) {
+        this.length -= 1
+        }
+     return this._data.splice(-1)[0];
+}
+isEmpty(){
+return this.length === 0;
+
+}
+
+
+}
+const stack = new Stack()
+stack.push(1);
+stack.push(5);
+stack.push(3444);
+console.log("length", stack.length);
+console.log(stack.top());
+console.log(stack.pop());
+console.log(stack.pop());
+console.log(stack.pop());
+console.log(stack.pop());
