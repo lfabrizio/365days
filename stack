@@ -1,3 +1,5 @@
+//
+
 class Stack {
     constructor() {
         this._data = [ ];
@@ -11,7 +13,9 @@ class Stack {
     return this_data[this.data.length -1]
     }
     pop() {
+        if (this.length > 0) {
         this.length -= 1
+        }
      return this._data.splice(-1)[0];
 }
 isEmpty(){
