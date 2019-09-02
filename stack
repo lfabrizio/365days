@@ -1,4 +1,5 @@
 // updated to fix no negative 
+// in javascript
 
 class Stack {
     constructor() {
