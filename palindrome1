@@ -1,0 +1,29 @@
+// testing if a word is a palindrome
+// stacks
+// functions : push, pop, peek(displaying top) , length
+// palindrones, same word 
+
+var letters = []; // our stack
+
+var word = "racecar" //palendrome
+
+var rword = ""; // empty string
+
+// put letters of word in stack
+
+for (var i = 0; i < word.length; i++) {
+	letters.push(word[i]);
+}
+
+// pop off the stack in reverse order
+for (var i =0; i < word.length; i++) {
+	rword += letters.pop();
+}
+
+if (rword === word) {
+	console.log(word + " is a palindrome.");
+}
+else {
+	console.log(word + " is not a palindrome.");
+} 
+
