@@ -1,6 +1,6 @@
 // practice folowing a tutorial
 
-function log(array) {
+function log(array) {                 // constant runtime
   console.log(array[0]);              // big O notation "0 (1)"
   console.log(array[1]);
   }
