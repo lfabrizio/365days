@@ -1,0 +1,15 @@
+// big o notation and time complexity
+
+0 (1) static // simple 
+0 (log n) divide and conquor the binary search
+0 (n) direct with the n
+
+
+ big o(1) print("Hello World")
+ big 0(1) shake hands with teacher
+big o(n) shake hands with everyone in the class
+
+big O(1) good morning 
+big O(n) rolll call of class
+
+big O(n^2) every student in the class shake hands w every other student
