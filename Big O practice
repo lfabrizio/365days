@@ -13,3 +13,13 @@ big O(1) good morning
 big O(n) rolll call of class
 
 big O(n^2) every student in the class shake hands w every other student
+
+for x=1 to n
+print("hello world") // will print n times 
+// so this will be big o of n
+
+// nested for loop
+for x=1 to n
+for y = 1 to n
+ print ("hello world")\
+// this is big o of n squared
