@@ -22,4 +22,4 @@ print("hello world") // will print n times
 for x=1 to n
 for y = 1 to n
  print ("hello world")\
-// this is big o of n squared
+// this is big o of n squared becuase its a nested for loop
