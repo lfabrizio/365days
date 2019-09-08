@@ -1,0 +1,12 @@
+// what does O (n ** 4) algorithm look like?
+
+// 4 nested loops
+    for ( let i = 0; i < array.length; ++i ) {
+        for ( let j = i; j < array.length; ++j ) {
+            for ( let k = j; k < array.length; ++k ) {
+                for ( let l = k; l < array.length; ++l ) {
+                    // O(N**4) algorithm
+                }
+            }
+        }
+    }
