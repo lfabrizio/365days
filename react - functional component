@@ -1,0 +1,14 @@
+// react practice 
+// create a stateless functional component 
+
+const MyComponent = function() {
+  // change code below this line
+return (
+  <div> 
+  <p>sting of text</p> 
+  </div>
+)
+
+
+  // change code above this line
+}
