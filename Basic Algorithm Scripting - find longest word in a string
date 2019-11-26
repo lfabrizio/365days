@@ -1,5 +1,5 @@
 // find longest word in a string problem
-
+// check big O notation. 
 function findLongestWordLength(str) {
 // turn to an array 
 var words = str.split(" ")
