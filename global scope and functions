@@ -1,5 +1,5 @@
 // global scope and functions
-
+//Refresher for nodejs 
 
 // Declare your variable here
 var myGlobal= 10;
