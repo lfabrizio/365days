@@ -1,4 +1,4 @@
-// generate an array of all object keys
+// generate an array of all objects keys
 
 let users = {
   Alan: {
