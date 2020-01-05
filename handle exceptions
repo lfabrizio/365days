@@ -1,0 +1,9 @@
+Try{
+	Code
+}
+Catch(exp){
+	Code to throw an exception
+}
+Finally{
+	Code runs either it finishes successfully or after catch
+}
