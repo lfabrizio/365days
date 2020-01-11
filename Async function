@@ -1,4 +1,5 @@
-  asyncFunction1(a, b)
+  //try catch
+asyncFunction1(a, b)
   .then(result1 => {
       console.log(result1);
       return asyncFunction2(x, y);
