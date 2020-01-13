@@ -1,4 +1,4 @@
-  //try catch
+  //try catch async 
 asyncFunction1(a, b)
   .then(result1 => {
       console.log(result1);
