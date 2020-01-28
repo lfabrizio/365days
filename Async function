@@ -1,4 +1,4 @@
-  //try catch async 
+  //try and catch asynchronous 
 // async await 
 asyncFunction1(a, b)
   .then(result1 => {
