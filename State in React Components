@@ -1,0 +1,18 @@
+//adding state to a compenent 
+<div id="app"></div>
+
+<script type="text/babel">
+class App extends React.Component {
+state = {
+	name: 'Ryu',
+	age: 30
+	}
+	render() {
+	return (
+	<div className="app-content">
+	<h1>Hey, there</h1>
+	<p>My name is :{ this.state.name } </p>
+	</div>
+	)
+	}
+}
