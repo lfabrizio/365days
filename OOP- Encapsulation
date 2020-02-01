@@ -1,4 +1,5 @@
 //encapsulation example
+// making code less complex
 
 let baseSalary = 30,000;
 let overtime = 10;
