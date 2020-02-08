@@ -1,10 +1,5 @@
-// write hello in c
-
-public class Exercise1
-{
-    public static void Main( )
-    {
-         System.Console.WriteLine("Hello");
-         System.Console.WriteLine("Lou!");
-    }
-}
+int myNum = 5;
+double myDoubleNum = 5.99D;
+char myLetter = 'D';
+bool myBool = true;
+string myText = "Hello";
