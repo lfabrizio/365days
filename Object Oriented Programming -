@@ -1,5 +1,5 @@
 // inherit behaviors from a supertype
-// revisited for clarity 
+// revisited review 
 function Cat(name) {
   this.name = name; 
 }
