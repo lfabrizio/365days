@@ -2,7 +2,7 @@
 public class Conditionals {
 	public static void main(String[] args) {
 
-	boolean riddles = ( 1 < 8 && (5 > 2 || 3 < 5));
+	boolean riddles = ( 1 < 9 && (6 > 2 || 3 < 5));
 
 	System.out.println(riddles);		
 }
